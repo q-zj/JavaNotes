@@ -3,8 +3,4 @@
 
 - **new Integer() 弃用警告**
     - 可以用 @suppressWarings 压制警告
-    - 
-      ```
-      Integer.valueOf(i)(Integer) i 
-      ```
-      
+    - Integer.valueOf(i) / (Integer) i
